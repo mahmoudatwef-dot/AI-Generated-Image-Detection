@@ -69,4 +69,23 @@ The model is built using MobileNetV2 with Transfer Learning and Fine-Tuning to a
 
 ## 👨‍💻 Author
 
-**Mahmoud Atef**
+**Mahmoud Atef** 
+---------------------
+---
+
+## 📷 Project Results
+
+### Accuracy & Loss
+![Accuracy & Loss](accuracy_loss.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### Sample Predictions
+![Sample Predictions](sample_predictions.png)
+
+### Data Augmentation
+![Data Augmentation](data_augmentation.png)
+
+### Gradio Demo
+![Gradio Demo](gradio_demo.png)
